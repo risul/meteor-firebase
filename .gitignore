@@ -1,0 +1,4 @@
+.versions
+.build*
+.npm*
+.idea/*
